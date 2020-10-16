@@ -9,7 +9,7 @@
   </table>
 </center>  
 
-### Oii!! Seja bem vindo(a) ^^ 👋
+### Oii!! Seja bem vinde ^^ 👋
 
 ---
 
