@@ -23,7 +23,7 @@ Gosto de jogar 🎮, de assistir filmes e séries 🎬 e de conversar 🗣
 
 Contato:
 
-<a href="https://twitter.com/kibonfxv"><img src="./images/download.png" width="16"></img></a> [Twitter](https://twitter.com/kibonfxv)
+<a href="https://twitter.com/kibonfxv"><img src="./images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/kibonfxv)
 
 <a href="https://www.instagram.com/gabriel_fxv/"><img src="./images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/gabriel_fxv/)   
 
